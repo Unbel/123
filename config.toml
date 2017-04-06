@@ -1,4 +1,4 @@
-baseurl = "http://unbel.github.io/123/"
+baseurl = "http://unbel.github.io/123/public/"
 languageCode = "ru"
 title = "Hugo Themes"
 author = "Steve Francia"
