@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Hugo Themes</title>
-    <link>http://themes.gohugo.io/theme/bootstrap/page/index.xml</link>
+    <link>http://unbel.github.io/123/page/index.xml</link>
     <description>Recent content in Pages on Hugo Themes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>ru</language>
     <copyright>Copyright (c) 2008 - 2017, Steve Francia; all rights reserved.</copyright>
     <lastBuildDate>Thu, 01 Oct 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://themes.gohugo.io/theme/bootstrap/page/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://unbel.github.io/123/page/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Disclaimer</title>
-      <link>http://themes.gohugo.io/theme/bootstrap/page/disclaimer/</link>
+      <link>http://unbel.github.io/123/page/disclaimer/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://themes.gohugo.io/theme/bootstrap/page/disclaimer/</guid>
+      <guid>http://unbel.github.io/123/page/disclaimer/</guid>
       <description>&lt;div class=&#34;container&#34;&gt;
   &lt;div class=&#34;row&#34;&gt;
     &lt;div class=&#34;card&#34;&gt;
@@ -42,10 +42,10 @@
     
     <item>
       <title>License</title>
-      <link>http://themes.gohugo.io/theme/bootstrap/page/license/</link>
+      <link>http://unbel.github.io/123/page/license/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://themes.gohugo.io/theme/bootstrap/page/license/</guid>
+      <guid>http://unbel.github.io/123/page/license/</guid>
       <description>&lt;div class=&#34;container&#34;&gt;
   &lt;div class=&#34;row&#34;&gt;
     &lt;div class=&#34;card&#34;&gt;
@@ -65,10 +65,10 @@
     
     <item>
       <title>About Hugo</title>
-      <link>http://themes.gohugo.io/theme/bootstrap/page/about-me/</link>
+      <link>http://unbel.github.io/123/page/about-me/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://themes.gohugo.io/theme/bootstrap/page/about-me/</guid>
+      <guid>http://unbel.github.io/123/page/about-me/</guid>
       <description>
 
 &lt;p&gt;You can see my custom about-me page &lt;a href=&#34;http://mmrath.com/page/about-me/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;

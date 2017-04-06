@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo Themes</title>
-    <link>http://themes.gohugo.io/theme/bootstrap/index.xml</link>
+    <link>http://unbel.github.io/123/index.xml</link>
     <description>Recent content on Hugo Themes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>ru</language>
     <copyright>Copyright (c) 2008 - 2017, Steve Francia; all rights reserved.</copyright>
     <lastBuildDate>Sun, 24 Apr 2016 02:50:28 +0200</lastBuildDate>
-    <atom:link href="http://themes.gohugo.io/theme/bootstrap/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://unbel.github.io/123/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>What is Hugo?</title>
-      <link>http://themes.gohugo.io/theme/bootstrap/post/what-is-hugo/</link>
+      <link>http://unbel.github.io/123/post/what-is-hugo/</link>
       <pubDate>Sun, 24 Apr 2016 02:50:28 +0200</pubDate>
       
-      <guid>http://themes.gohugo.io/theme/bootstrap/post/what-is-hugo/</guid>
+      <guid>http://unbel.github.io/123/post/what-is-hugo/</guid>
       <description>
 
 &lt;p&gt;Hugo is a general-purpose website framework. Technically speaking, Hugo is
@@ -98,8 +98,8 @@ templates and uses these as input to create a complete website.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Extremely fast build times (~1 ms per page)&lt;/li&gt;
 &lt;li&gt;Completely cross platform: Runs on &lt;i class=&#34;fa fa-apple&#34;&gt;&lt;/i&gt;&amp;nbsp;Mac OS&amp;nbsp;X, &lt;i class=&#34;fa fa-linux&#34;&gt;&lt;/i&gt;&amp;nbsp;Linux, &lt;i class=&#34;fa fa-windows&#34;&gt;&lt;/i&gt;&amp;nbsp;Windows, and more!&lt;/li&gt;
-&lt;li&gt;Easy &lt;a href=&#34;http://themes.gohugo.io/theme/bootstrap/overview/installing/&#34;&gt;installation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Render changes &lt;a href=&#34;http://themes.gohugo.io/theme/bootstrap/overview/usage/&#34;&gt;on the fly&lt;/a&gt; with &lt;a href=&#34;http://themes.gohugo.io/theme/bootstrap/extras/livereload/&#34;&gt;LiveReload&lt;/a&gt; as you develop&lt;/li&gt;
+&lt;li&gt;Easy &lt;a href=&#34;http://unbel.github.io/123/overview/installing/&#34;&gt;installation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Render changes &lt;a href=&#34;http://unbel.github.io/123/overview/usage/&#34;&gt;on the fly&lt;/a&gt; with &lt;a href=&#34;http://unbel.github.io/123/extras/livereload/&#34;&gt;LiveReload&lt;/a&gt; as you develop&lt;/li&gt;
 &lt;li&gt;Complete theme support&lt;/li&gt;
 &lt;li&gt;Host your site anywhere&lt;/li&gt;
 &lt;/ul&gt;
@@ -107,33 +107,33 @@ templates and uses these as input to create a complete website.&lt;/p&gt;
 &lt;h3 id=&#34;organization&#34;&gt;Organization&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Straightforward &lt;a href=&#34;http://themes.gohugo.io/theme/bootstrap/content/organization/&#34;&gt;organization&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Support for &lt;a href=&#34;http://themes.gohugo.io/theme/bootstrap/content/sections/&#34;&gt;website sections&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Completely customizable &lt;a href=&#34;http://themes.gohugo.io/theme/bootstrap/extras/urls/&#34;&gt;URLs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Support for configurable &lt;a href=&#34;http://themes.gohugo.io/theme/bootstrap/taxonomies/overview/&#34;&gt;taxonomies&lt;/a&gt; which includes categories and tags.  Create your own custom organization of content&lt;/li&gt;
-&lt;li&gt;Ability to &lt;a href=&#34;http://themes.gohugo.io/theme/bootstrap/content/ordering/&#34;&gt;sort content&lt;/a&gt; as you desire&lt;/li&gt;
-&lt;li&gt;Automatic &lt;a href=&#34;http://themes.gohugo.io/theme/bootstrap/extras/toc/&#34;&gt;table of contents&lt;/a&gt; generation&lt;/li&gt;
+&lt;li&gt;Straightforward &lt;a href=&#34;http://unbel.github.io/123/content/organization/&#34;&gt;organization&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Support for &lt;a href=&#34;http://unbel.github.io/123/content/sections/&#34;&gt;website sections&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Completely customizable &lt;a href=&#34;http://unbel.github.io/123/extras/urls/&#34;&gt;URLs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Support for configurable &lt;a href=&#34;http://unbel.github.io/123/taxonomies/overview/&#34;&gt;taxonomies&lt;/a&gt; which includes categories and tags.  Create your own custom organization of content&lt;/li&gt;
+&lt;li&gt;Ability to &lt;a href=&#34;http://unbel.github.io/123/content/ordering/&#34;&gt;sort content&lt;/a&gt; as you desire&lt;/li&gt;
+&lt;li&gt;Automatic &lt;a href=&#34;http://unbel.github.io/123/extras/toc/&#34;&gt;table of contents&lt;/a&gt; generation&lt;/li&gt;
 &lt;li&gt;Dynamic menu creation&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://themes.gohugo.io/theme/bootstrap/extras/urls/&#34;&gt;Pretty URLs&lt;/a&gt; support&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://themes.gohugo.io/theme/bootstrap/extras/permalinks/&#34;&gt;Permalink&lt;/a&gt; pattern support&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://themes.gohugo.io/theme/bootstrap/extras/aliases/&#34;&gt;Aliases&lt;/a&gt; (redirects)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://unbel.github.io/123/extras/urls/&#34;&gt;Pretty URLs&lt;/a&gt; support&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://unbel.github.io/123/extras/permalinks/&#34;&gt;Permalink&lt;/a&gt; pattern support&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://unbel.github.io/123/extras/aliases/&#34;&gt;Aliases&lt;/a&gt; (redirects)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;content&#34;&gt;Content&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Native support for content written in &lt;a href=&#34;http://themes.gohugo.io/theme/bootstrap/content/example/&#34;&gt;Markdown&lt;/a&gt;
+&lt;li&gt;Native support for content written in &lt;a href=&#34;http://unbel.github.io/123/content/example/&#34;&gt;Markdown&lt;/a&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Support for other languages through &lt;em&gt;external helpers&lt;/em&gt;, see &lt;a href=&#34;http://themes.gohugo.io/theme/bootstrap/content/supported-formats&#34;&gt;supported formats&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Support for other languages through &lt;em&gt;external helpers&lt;/em&gt;, see &lt;a href=&#34;http://unbel.github.io/123/content/supported-formats&#34;&gt;supported formats&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Support for TOML, YAML and JSON metadata in &lt;a href=&#34;http://themes.gohugo.io/theme/bootstrap/content/front-matter/&#34;&gt;frontmatter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Completely &lt;a href=&#34;http://themes.gohugo.io/theme/bootstrap/layout/homepage/&#34;&gt;customizable homepage&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Support for multiple &lt;a href=&#34;http://themes.gohugo.io/theme/bootstrap/content/types/&#34;&gt;content types&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Automatic and user defined &lt;a href=&#34;http://themes.gohugo.io/theme/bootstrap/content/summaries/&#34;&gt;summaries&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://themes.gohugo.io/theme/bootstrap/extras/shortcodes/&#34;&gt;Shortcodes&lt;/a&gt; to enable rich content inside of Markdown&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://themes.gohugo.io/theme/bootstrap/layout/variables/&#34;&gt;&amp;ldquo;Minutes to Read&amp;rdquo;&lt;/a&gt; functionality&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://themes.gohugo.io/theme/bootstrap/layout/variables/&#34;&gt;&amp;ldquo;Wordcount&amp;rdquo;&lt;/a&gt; functionality&lt;/li&gt;
+&lt;li&gt;Support for TOML, YAML and JSON metadata in &lt;a href=&#34;http://unbel.github.io/123/content/front-matter/&#34;&gt;frontmatter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Completely &lt;a href=&#34;http://unbel.github.io/123/layout/homepage/&#34;&gt;customizable homepage&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Support for multiple &lt;a href=&#34;http://unbel.github.io/123/content/types/&#34;&gt;content types&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Automatic and user defined &lt;a href=&#34;http://unbel.github.io/123/content/summaries/&#34;&gt;summaries&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://unbel.github.io/123/extras/shortcodes/&#34;&gt;Shortcodes&lt;/a&gt; to enable rich content inside of Markdown&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://unbel.github.io/123/layout/variables/&#34;&gt;&amp;ldquo;Minutes to Read&amp;rdquo;&lt;/a&gt; functionality&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://unbel.github.io/123/layout/variables/&#34;&gt;&amp;ldquo;Wordcount&amp;rdquo;&lt;/a&gt; functionality&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;additional-features&#34;&gt;Additional Features&lt;/h3&gt;
@@ -141,12 +141,12 @@ templates and uses these as input to create a complete website.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Integrated &lt;a href=&#34;https://disqus.com/&#34;&gt;Disqus&lt;/a&gt; comment support&lt;/li&gt;
 &lt;li&gt;Integrated &lt;a href=&#34;https://google-analytics.com/&#34;&gt;Google Analytics&lt;/a&gt; support&lt;/li&gt;
-&lt;li&gt;Automatic &lt;a href=&#34;http://themes.gohugo.io/theme/bootstrap/layout/rss/&#34;&gt;RSS&lt;/a&gt; creation&lt;/li&gt;
+&lt;li&gt;Automatic &lt;a href=&#34;http://unbel.github.io/123/layout/rss/&#34;&gt;RSS&lt;/a&gt; creation&lt;/li&gt;
 &lt;li&gt;Support for &lt;a href=&#34;http://golang.org/pkg/html/template/&#34;&gt;Go&lt;/a&gt;, &lt;a href=&#34;https://github.com/eknkc/amber&#34;&gt;Amber&lt;/a&gt; and &lt;a href=&#34;http://ace.yoss.si/&#34;&gt;Ace&lt;/a&gt; HTML templates&lt;/li&gt;
-&lt;li&gt;Syntax &lt;a href=&#34;http://themes.gohugo.io/theme/bootstrap/extras/highlighting/&#34;&gt;highlighting&lt;/a&gt; powered by &lt;a href=&#34;http://pygments.org/&#34;&gt;Pygments&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Syntax &lt;a href=&#34;http://unbel.github.io/123/extras/highlighting/&#34;&gt;highlighting&lt;/a&gt; powered by &lt;a href=&#34;http://pygments.org/&#34;&gt;Pygments&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;See what&amp;rsquo;s coming next in the &lt;a href=&#34;http://themes.gohugo.io/theme/bootstrap/meta/roadmap/&#34;&gt;roadmap&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;See what&amp;rsquo;s coming next in the &lt;a href=&#34;http://unbel.github.io/123/meta/roadmap/&#34;&gt;roadmap&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&#34;who-should-use-hugo&#34;&gt;Who should use Hugo?&lt;/h2&gt;
 
@@ -189,10 +189,10 @@ as I have writing it.&lt;/p&gt;
     
     <item>
       <title>Introduction</title>
-      <link>http://themes.gohugo.io/theme/bootstrap/post/introduction/</link>
+      <link>http://unbel.github.io/123/post/introduction/</link>
       <pubDate>Thu, 21 Apr 2016 02:50:28 +0200</pubDate>
       
-      <guid>http://themes.gohugo.io/theme/bootstrap/post/introduction/</guid>
+      <guid>http://unbel.github.io/123/post/introduction/</guid>
       <description>
 
 &lt;p&gt;Hugo is written in &lt;a href=&#34;http://golang.org/&#34;&gt;Go&lt;/a&gt; with support for multiple platforms.&lt;/p&gt;
@@ -234,7 +234,7 @@ easier: just run &lt;code&gt;brew update &amp;amp;&amp;amp; brew install hugo&lt
 
 &lt;p&gt;The Hugo executable has one &lt;em&gt;optional&lt;/em&gt; external dependency for source code highlighting (Pygments).&lt;/p&gt;
 
-&lt;p&gt;If you want to have source code highlighting using the &lt;a href=&#34;http://themes.gohugo.io/theme/bootstrap/extras/highlighting/&#34;&gt;highlight shortcode&lt;/a&gt;,
+&lt;p&gt;If you want to have source code highlighting using the &lt;a href=&#34;http://unbel.github.io/123/extras/highlighting/&#34;&gt;highlight shortcode&lt;/a&gt;,
 you need to install the Python-based Pygments program. The procedure is outlined on the &lt;a href=&#34;http://pygments.org/&#34;&gt;Pygments home page&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&#34;upgrading-hugo&#34;&gt;Upgrading Hugo&lt;/h2&gt;
@@ -269,16 +269,16 @@ $ go get -v github.com/spf13/hugo
 
 &lt;h2 id=&#34;contributing&#34;&gt;Contributing&lt;/h2&gt;
 
-&lt;p&gt;Please see the &lt;a href=&#34;http://themes.gohugo.io/theme/bootstrap/doc/contributing/&#34;&gt;contributing guide&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Please see the &lt;a href=&#34;http://unbel.github.io/123/doc/contributing/&#34;&gt;contributing guide&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Creating a New Theme</title>
-      <link>http://themes.gohugo.io/theme/bootstrap/post/creating-a-new-theme/</link>
+      <link>http://unbel.github.io/123/post/creating-a-new-theme/</link>
       <pubDate>Tue, 20 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://themes.gohugo.io/theme/bootstrap/post/creating-a-new-theme/</guid>
+      <guid>http://unbel.github.io/123/post/creating-a-new-theme/</guid>
       <description>
 
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
@@ -1377,10 +1377,10 @@ $ vi themes/zafta/layouts/_default/single.html
     
     <item>
       <title>Disclaimer</title>
-      <link>http://themes.gohugo.io/theme/bootstrap/page/disclaimer/</link>
+      <link>http://unbel.github.io/123/page/disclaimer/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://themes.gohugo.io/theme/bootstrap/page/disclaimer/</guid>
+      <guid>http://unbel.github.io/123/page/disclaimer/</guid>
       <description>&lt;div class=&#34;container&#34;&gt;
   &lt;div class=&#34;row&#34;&gt;
     &lt;div class=&#34;card&#34;&gt;
@@ -1407,10 +1407,10 @@ $ vi themes/zafta/layouts/_default/single.html
     
     <item>
       <title>License</title>
-      <link>http://themes.gohugo.io/theme/bootstrap/page/license/</link>
+      <link>http://unbel.github.io/123/page/license/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://themes.gohugo.io/theme/bootstrap/page/license/</guid>
+      <guid>http://unbel.github.io/123/page/license/</guid>
       <description>&lt;div class=&#34;container&#34;&gt;
   &lt;div class=&#34;row&#34;&gt;
     &lt;div class=&#34;card&#34;&gt;
@@ -1430,10 +1430,10 @@ $ vi themes/zafta/layouts/_default/single.html
     
     <item>
       <title>About Hugo</title>
-      <link>http://themes.gohugo.io/theme/bootstrap/page/about-me/</link>
+      <link>http://unbel.github.io/123/page/about-me/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://themes.gohugo.io/theme/bootstrap/page/about-me/</guid>
+      <guid>http://unbel.github.io/123/page/about-me/</guid>
       <description>
 
 &lt;p&gt;You can see my custom about-me page &lt;a href=&#34;http://mmrath.com/page/about-me/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
@@ -1470,10 +1470,10 @@ $ vi themes/zafta/layouts/_default/single.html
     
     <item>
       <title>(Hu)go Template Primer</title>
-      <link>http://themes.gohugo.io/theme/bootstrap/post/goisforlovers/</link>
+      <link>http://unbel.github.io/123/post/goisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://themes.gohugo.io/theme/bootstrap/post/goisforlovers/</guid>
+      <guid>http://unbel.github.io/123/post/goisforlovers/</guid>
       <description>
 
 &lt;p&gt;Hugo uses the excellent &lt;a href=&#34;http://golang.org/&amp;gt;&#34;&gt;go&lt;/a&gt; &lt;a href=&#34;http://golang.org/pkg/html/template/&amp;gt;&#34;&gt;html/template&lt;/a&gt; library for
@@ -1532,7 +1532,7 @@ functions.&lt;/p&gt;
 &lt;p&gt;Each go template has a struct (object) made available to it. In hugo each
 template is passed either a page or a node struct depending on which type of
 page you are rendering. More details are available on the
-&lt;a href=&#34;http://themes.gohugo.io/theme/bootstrap/layout/variables&#34;&gt;variables&lt;/a&gt; page.&lt;/p&gt;
+&lt;a href=&#34;http://unbel.github.io/123/layout/variables&#34;&gt;variables&lt;/a&gt; page.&lt;/p&gt;
 
 &lt;p&gt;A variable is accessed by referencing the variable name.&lt;/p&gt;
 
@@ -1549,7 +1549,7 @@ page you are rendering. More details are available on the
 
 &lt;p&gt;Go template ship with a few functions which provide basic functionality. The go
 template system also provides a mechanism for applications to extend the
-available functions with their own. &lt;a href=&#34;http://themes.gohugo.io/theme/bootstrap/layout/functions&#34;&gt;Hugo template
+available functions with their own. &lt;a href=&#34;http://unbel.github.io/123/layout/functions&#34;&gt;Hugo template
 functions&lt;/a&gt; provide some additional functionality we believe
 are useful for building websites. Functions are called by using their name
 followed by the required parameters separated by spaces. Template
@@ -1737,7 +1737,7 @@ you want to inside of your templates.&lt;/p&gt;
 &lt;h2 id=&#34;using-content-page-parameters&#34;&gt;Using Content (page) Parameters&lt;/h2&gt;
 
 &lt;p&gt;In each piece of content you can provide variables to be used by the
-templates. This happens in the &lt;a href=&#34;http://themes.gohugo.io/theme/bootstrap/content/front-matter&#34;&gt;front matter&lt;/a&gt;.&lt;/p&gt;
+templates. This happens in the &lt;a href=&#34;http://unbel.github.io/123/content/front-matter&#34;&gt;front matter&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;An example of this is used in this documentation site. Most of the pages
 benefit from having the table of contents provided. Sometimes the TOC just
@@ -1816,10 +1816,10 @@ so, such as in this example:&lt;/p&gt;
     
     <item>
       <title>Getting Started with Hugo</title>
-      <link>http://themes.gohugo.io/theme/bootstrap/post/hugoisforlovers/</link>
+      <link>http://unbel.github.io/123/post/hugoisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://themes.gohugo.io/theme/bootstrap/post/hugoisforlovers/</guid>
+      <guid>http://unbel.github.io/123/post/hugoisforlovers/</guid>
       <description>
 
 &lt;h2 id=&#34;step-1-install-hugo&#34;&gt;Step 1. Install Hugo&lt;/h2&gt;
@@ -1829,7 +1829,7 @@ appropriate version for your os and architecture.&lt;/p&gt;
 
 &lt;p&gt;Save it somewhere specific as we will be using it in the next step.&lt;/p&gt;
 
-&lt;p&gt;More complete instructions are available at &lt;a href=&#34;http://themes.gohugo.io/theme/bootstrap/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;More complete instructions are available at &lt;a href=&#34;http://unbel.github.io/123/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;step-2-build-the-docs&#34;&gt;Step 2. Build the Docs&lt;/h2&gt;
 
@@ -1903,10 +1903,10 @@ Having nearly instant feedback enables you to have your creativity flow without 
     
     <item>
       <title>Migrate to Hugo from Jekyll</title>
-      <link>http://themes.gohugo.io/theme/bootstrap/post/migrate-from-jekyll/</link>
+      <link>http://unbel.github.io/123/post/migrate-from-jekyll/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://themes.gohugo.io/theme/bootstrap/post/migrate-from-jekyll/</guid>
+      <guid>http://unbel.github.io/123/post/migrate-from-jekyll/</guid>
       <description>
 
 &lt;h2 id=&#34;move-static-content-to-static&#34;&gt;Move static content to &lt;code&gt;static&lt;/code&gt;&lt;/h2&gt;
@@ -1931,7 +1931,7 @@ With Jekyll, something that looked like&lt;/p&gt;
 
 &lt;h2 id=&#34;create-your-hugo-configuration-file&#34;&gt;Create your Hugo configuration file&lt;/h2&gt;
 
-&lt;p&gt;Hugo can read your configuration as JSON, YAML or TOML. Hugo supports parameters custom configuration too. Refer to the &lt;a href=&#34;http://themes.gohugo.io/theme/bootstrap/overview/configuration/&#34;&gt;Hugo configuration documentation&lt;/a&gt; for details.&lt;/p&gt;
+&lt;p&gt;Hugo can read your configuration as JSON, YAML or TOML. Hugo supports parameters custom configuration too. Refer to the &lt;a href=&#34;http://unbel.github.io/123/overview/configuration/&#34;&gt;Hugo configuration documentation&lt;/a&gt; for details.&lt;/p&gt;
 
 &lt;h2 id=&#34;set-your-configuration-publish-folder-to-site&#34;&gt;Set your configuration publish folder to &lt;code&gt;_site&lt;/code&gt;&lt;/h2&gt;
 
@@ -1957,13 +1957,13 @@ git submodule add -b gh-pages git@github.com:your-username/your-repo.git public
 
 &lt;h2 id=&#34;convert-jekyll-templates-to-hugo-templates&#34;&gt;Convert Jekyll templates to Hugo templates&lt;/h2&gt;
 
-&lt;p&gt;That&amp;rsquo;s the bulk of the work right here. The documentation is your friend. You should refer to &lt;a href=&#34;http://jekyllrb.com/docs/templates/&#34;&gt;Jekyll&amp;rsquo;s template documentation&lt;/a&gt; if you need to refresh your memory on how you built your blog and &lt;a href=&#34;http://themes.gohugo.io/theme/bootstrap/layout/templates/&#34;&gt;Hugo&amp;rsquo;s template&lt;/a&gt; to learn Hugo&amp;rsquo;s way.&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s the bulk of the work right here. The documentation is your friend. You should refer to &lt;a href=&#34;http://jekyllrb.com/docs/templates/&#34;&gt;Jekyll&amp;rsquo;s template documentation&lt;/a&gt; if you need to refresh your memory on how you built your blog and &lt;a href=&#34;http://unbel.github.io/123/layout/templates/&#34;&gt;Hugo&amp;rsquo;s template&lt;/a&gt; to learn Hugo&amp;rsquo;s way.&lt;/p&gt;
 
 &lt;p&gt;As a single reference data point, converting my templates for &lt;a href=&#34;http://heyitsalex.net/&#34;&gt;heyitsalex.net&lt;/a&gt; took me no more than a few hours.&lt;/p&gt;
 
 &lt;h2 id=&#34;convert-jekyll-plugins-to-hugo-shortcodes&#34;&gt;Convert Jekyll plugins to Hugo shortcodes&lt;/h2&gt;
 
-&lt;p&gt;Jekyll has &lt;a href=&#34;http://jekyllrb.com/docs/plugins/&#34;&gt;plugins&lt;/a&gt;; Hugo has &lt;a href=&#34;http://themes.gohugo.io/theme/bootstrap/doc/shortcodes/&#34;&gt;shortcodes&lt;/a&gt;. It&amp;rsquo;s fairly trivial to do a port.&lt;/p&gt;
+&lt;p&gt;Jekyll has &lt;a href=&#34;http://jekyllrb.com/docs/plugins/&#34;&gt;plugins&lt;/a&gt;; Hugo has &lt;a href=&#34;http://unbel.github.io/123/doc/shortcodes/&#34;&gt;shortcodes&lt;/a&gt;. It&amp;rsquo;s fairly trivial to do a port.&lt;/p&gt;
 
 &lt;h3 id=&#34;implementation&#34;&gt;Implementation&lt;/h3&gt;
 
