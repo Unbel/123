@@ -1,5 +1,5 @@
 baseurl = "http://unbel.github.io/123/"
-languageCode = "en-us"
+languageCode = "ru"
 title = "Hugo Themes"
 author = "Steve Francia"
 copyright = "Copyright (c) 2008 - 2017, Steve Francia; all rights reserved."
