@@ -2,146 +2,146 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://unbel.github.io/123/post/what-is-hugo/</loc>
+    <loc>http://unbel.github.io/123/public/post/what-is-hugo/</loc>
     <lastmod>2016-04-24T02:50:28+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://unbel.github.io/123/post/introduction/</loc>
+    <loc>http://unbel.github.io/123/public/post/introduction/</loc>
     <lastmod>2016-04-21T02:50:28+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://unbel.github.io/123/post/creating-a-new-theme/</loc>
+    <loc>http://unbel.github.io/123/public/post/creating-a-new-theme/</loc>
     <lastmod>2015-10-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://unbel.github.io/123/page/disclaimer/</loc>
+    <loc>http://unbel.github.io/123/public/page/disclaimer/</loc>
     <lastmod>2015-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://unbel.github.io/123/page/license/</loc>
+    <loc>http://unbel.github.io/123/public/page/license/</loc>
     <lastmod>2015-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://unbel.github.io/123/page/about-me/</loc>
+    <loc>http://unbel.github.io/123/public/page/about-me/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://unbel.github.io/123/post/goisforlovers/</loc>
+    <loc>http://unbel.github.io/123/public/post/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://unbel.github.io/123/post/hugoisforlovers/</loc>
+    <loc>http://unbel.github.io/123/public/post/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://unbel.github.io/123/post/migrate-from-jekyll/</loc>
+    <loc>http://unbel.github.io/123/public/post/migrate-from-jekyll/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://unbel.github.io/123/categories/</loc>
+    <loc>http://unbel.github.io/123/public/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://unbel.github.io/123/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://unbel.github.io/123/categories/development/</loc>
+    <loc>http://unbel.github.io/123/public/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://unbel.github.io/123/tags/go/</loc>
+    <loc>http://unbel.github.io/123/public/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://unbel.github.io/123/tags/golang/</loc>
+    <loc>http://unbel.github.io/123/public/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://unbel.github.io/123/categories/golang/</loc>
+    <loc>http://unbel.github.io/123/public/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://unbel.github.io/123/tags/hugo/</loc>
+    <loc>http://unbel.github.io/123/public/categories/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://unbel.github.io/123/public/tags/hugo/</loc>
     <lastmod>2015-10-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://unbel.github.io/123/</loc>
+    <loc>http://unbel.github.io/123/public/</loc>
     <lastmod>2016-04-24T02:50:28+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://unbel.github.io/123/tags/jekyll/</loc>
+    <loc>http://unbel.github.io/123/public/tags/jekyll/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://unbel.github.io/123/categories/migration/</loc>
+    <loc>http://unbel.github.io/123/public/categories/migration/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://unbel.github.io/123/page/</loc>
+    <loc>http://unbel.github.io/123/public/page/</loc>
     <lastmod>2015-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://unbel.github.io/123/post/</loc>
+    <loc>http://unbel.github.io/123/public/post/</loc>
     <lastmod>2016-04-24T02:50:28+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://unbel.github.io/123/tags/</loc>
+    <loc>http://unbel.github.io/123/public/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://unbel.github.io/123/tags/templates/</loc>
+    <loc>http://unbel.github.io/123/public/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://unbel.github.io/123/tags/theme/</loc>
+    <loc>http://unbel.github.io/123/public/tags/theme/</loc>
     <lastmod>2015-10-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://unbel.github.io/123/categories/theme/</loc>
+    <loc>http://unbel.github.io/123/public/categories/theme/</loc>
     <lastmod>2015-10-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://unbel.github.io/123/tags/themes/</loc>
+    <loc>http://unbel.github.io/123/public/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
