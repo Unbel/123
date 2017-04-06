@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <script>
+    var journal = [];
+
+    function addEntry(events, didITurnIntoASquirrel) {
+      journal.push({
+        events: events,
+        squirrel: didITurnIntoASquirrel
+      });
+    }
+    addEntry(["работа", "тронул", "пицца", "пробежка", "телевизор"], false);
+    addEntry(["работа", "мороженое", "капуста", "лазанья", "тронул дерево", "почистил зубы"], false);
+    addEntry(["выходной", "велик", "перерыв", "арахис", "пивасик"], true);
+    addEntry(["работа", "тронул дерево", "пицца", "пробежка", "телевизор", "почистил зубы"], false);
+    addEntry(["работа", "мороженое", "цветная капуста", "лазанья", "тронул дерево", "почистил зубы"], false);
+    addEntry(["выходной", "велик", "перерыв", "арахис", "пивасик"], true);
+    addEntry(["ебота", "тронул дерево", "пицца", "пробежка", "телевизор"], false);
+    addEntry(["работа", "мороженое", "какашки", "лазанья", "тронул дерево", "почистил зубы"], false);
+    addEntry(["выходной", "велик", "перерыв", "арахис", "пивасик"], true);
+
+    function phi(table) {
+      return (table[3] * table[0] - table[2] * table[1]) /
+        Math.sqrt((table[2] + table[3]) *
+                  (table[0] + table[1]) *
+                  (table[1] + table[3]) *
+                  (table[0] + table[2]));
+    }
+
+    function hasEvent(event, entry) {
+      return entry.events.indexOf(event) != -1;
+    }
+
+    function tableFor(event, journal) {
+      var table = [0, 0, 0, 0];
+      for (var i = 0; i < journal.length; i++) {
+        var entry = journal[i], index = 0;
+        if (hasEvent(event, entry)) index += 1;
+        if (entry.squirrel) index += 2;
+        table[index] += 1;
+      }
+      return table;
+    }
+
+    console.log(tableFor("pizza", journal));
+    // → [76, 9, 4, 1]
+
+    var map = {};
+function storePhi(event, phi) {
+  map[event] = phi;
+}
+
+storePhi("пицца", 0.069);
+storePhi("тронул дерево", -0.081);
+console.log("пицца" in map);
+// → true
+console.log(map["тронул дерево"]);
+// → -0.081
+for (var event in map)
+  console.log("Кореляция для '" + event +
+              "' получается " + map[event]);
+// → Кореляция для 'пицца' получается 0.069
+// → Кореляция для 'тронул дерево' получается -0.081
+function gatherCorrelations(journal) {
+  var phis = {};
+  for (var entry = 0; entry < journal.length; entry++) {
+    var events = journal[entry].events;
+    for (var i = 0; i < events.length; i++) {
+      var event = events[i];
+      if (!(event in phis))
+        phis[event] = phi(tableFor(event, journal));
+    }
+  }
+  return phis;
+}
+
+var correlations = gatherCorrelations(journal);
+console.log(correlations.пицца);
+// → 0.068599434
+
+for (var event in correlations)
+  console.log(event + ": " + correlations[event]);
+// → морковка:   0.0140970969
+// → упражнения: 0.0685994341
+// → выходной:   0.1371988681
+// → хлеб:      -0.0757554019
+// → пудинг:    -0.0648203724
+// и так далее...
+
+for (var event in correlations) {
+  var correlation = correlations[event];
+  if (correlation > 0.1 || correlation < -0.1)
+    console.log(event + ": " + correlation);
+}
+// → выходной:     0.1371988681
+// → чистил зубы: -0.3805211953
+// → конфета:      0.1296407447
+// → работа:      -0.1371988681
+// → спагетти:     0.2425356250
+// → читал:        0.1106828054
+// → арахис:       0.5902679812
+for (var i = 0; i < journal.length; i++) {
+  var entry = journal[i];
+  if (hasEvent("арахис", entry) &&
+     !hasEvent("чистка зубов", entry))
+    entry.events.push("арахисос зубы");
+}
+console.log(phi(tableFor("арахисос зубы", journal)));
+// → 1
+    </script>
+
+  </body>
+</html>
